@@ -30,6 +30,6 @@ Para inicar o APP php artisan
 
 [Configure Apache Vhost](https://github.com/angelo-ti/install-dependencies/blob/master/apache-vhost.md)
 
-
+[Usando Oauth2Server-Tutorial](https://www.youtube.com/watch?v=DF0J5BVJPgA);
 
 
